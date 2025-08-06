@@ -1,0 +1,10 @@
+# Android/Java
+build/
+*.apk
+*.aab
+*.iml
+.gradle/
+
+# Python
+__pycache__/
+*.pyc
