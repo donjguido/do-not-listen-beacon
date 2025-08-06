@@ -10,6 +10,7 @@ advertising packets and simple reciprocity rules: devices that broadcast a
 
 - `spec/` – Protocol specification and packet format
 - `android/` – Reference sender/receiver app for Android
+- `ios/` – Reference sender/receiver app for iOS
 - `microcontroller/` – Example firmware for ESP32 / nRF52 class boards
 - `scripts/` – Python proof‑of‑concept tools using [bleak](https://github.com/hbldh/bleak)
 - `docs/` – Integration guides and project roadmap
